@@ -1,32 +1,69 @@
 # 🔍 Scam Execution & Victim Profiling
 
-## 📌 Overview
-This project analyzes cyber fraud patterns using real-world data sources like FBI and FTC reports.
+🚀 A data analysis project exploring cyber fraud patterns using real-world intelligence sources.
 
-## 📊 Data Sources
+---
+
+## 📊 Project Overview
+This project analyzes scam behavior, victim demographics, and fraud tactics using data from FBI, FTC, and DOJ reports.
+
+---
+
+## 🛠 Tech Stack
+- Python 🐍  
+- Pandas  
+- Matplotlib  
+- Excel  
+
+---
+
+## 📁 Data Sources
 - FBI IC3 Reports (2020–2024)
-- FTC Consumer Data
+- FTC Consumer Sentinel Network
 - DOJ Reports
+- CISA Advisories
 
-## 🛠 Tools Used
-- Python
-- Pandas
-- Matplotlib
+---
 
-## 🔍 Key Insights
-- Elderly (60+) most targeted
-- Young users (20–29) also rising victims
-- Scams use urgency words like "pay", "arrest"
-- Gift cards & crypto are common payment methods
+## 🔍 Key Analysis
 
-## 📈 Visual Analysis
-- Time series trends
-- State-wise scam distribution
-- Scam keyword analysis
-- Payment method patterns
+### 👥 Victim Demographics
+- Age 60+ most targeted  
+- Rapid increase in 20–29 victims  
+
+### ⚠️ Scam Tactics
+- Urgency keywords: **"pay", "arrest", "account"**
+- Fear-based manipulation  
+
+### 💳 Payment Methods
+- Gift Cards  
+- Cryptocurrency  
+- Wire Transfers  
+
+### 📱 Platforms Used
+- Phone & Email (dominant)
+- Social media increasing  
+
+---
+
+## 📈 Key Insights
+✔ Scams are structured and organized  
+✔ Younger users are increasingly targeted  
+✔ Most scams rely on urgency + fear  
+✔ Payments are designed to be irreversible  
+
+---
 
 ## 📌 Conclusion
-Scams are organized systems. Prevention should focus on early detection using AI.
+Modern scams are not random — they are intelligent systems.  
+Future prevention must focus on **early detection using AI and behavioral analysis**.
+
+---
+
+## 📂 Project Files
+- 📄 Report → `report.pdf`
+
+---
 
 ## 👨‍💻 Author
-Piyush Bhati
+**Piyush Bhati**
